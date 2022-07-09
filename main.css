@@ -6,6 +6,7 @@ body {
     
     font-weight: bold;
     font-size: larger;
+    font-size: 30px;
 }
 
 li,
@@ -14,4 +15,9 @@ p {
 
     font-size: large;
     font-weight: 600;
+}
+
+.returnHome {
+    font-size: 30px;
+    font-weight: bolder;
 }
