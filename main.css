@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+}
+
+.recipeLink {
+    
+    font-weight: bold;
+    font-size: larger;
+}
+
+li,
+figcaption,
+p {
+
+    font-size: large;
+    font-weight: 600;
+}
